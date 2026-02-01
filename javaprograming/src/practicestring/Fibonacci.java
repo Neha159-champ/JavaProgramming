@@ -10,8 +10,7 @@ public class Fibonacci {
 
 			int c = a + b;
 			a = b;
-			b = c;
-			
+		
 		}
 
 	}
